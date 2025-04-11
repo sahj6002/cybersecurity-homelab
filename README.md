@@ -14,7 +14,7 @@ This is my personal cybersecurity lab where I experiment with tools, simulate at
 
 ---
 
-## 🛠 Tools & Goals
+## Tools & Goals
 
 | Tool | Goal |
 |------|------|
@@ -31,19 +31,3 @@ This is my personal cybersecurity lab where I experiment with tools, simulate at
 
 ---
 
-## 📸 Screenshots
-
-> I include screenshots as proof of progress and self-documentation. Check the `/screenshots` folder!
-
----
-
-## 📂 Folder Structure
-
-```bash
-cybersecurity-home-lab/
-├── README.md
-├── screenshots/
-│   ├── kali-installation.png
-│   └── virtualbox-settings.png
-├── notes/
-│   └── kali-setup.md
